@@ -1,0 +1,6 @@
+#!/bin/bash
+#!/binls -l
+cd ..
+ls -laR
+cd /boot
+#!/binls -l
